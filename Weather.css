@@ -1,0 +1,32 @@
+/* Weather.css */
+.weather-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(133, 180, 227);
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 8px; 
+  }
+  
+  button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  /* Add more styles as needed */
+  
